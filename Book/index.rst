@@ -1,5 +1,5 @@
-Table Of Contents
-=================
+Оглавление
+==========
 
 PHP 5
 -----
@@ -10,14 +10,14 @@ PHP 5
     introduction.rst
     build_system.rst
 
-* Creating PHP extensions
+* Создание PHP-расширений
 
 .. toctree::
     :maxdepth: 2
 
     zvals.rst
 
-* Implementing functions
+* Реализация функций
 
 .. toctree::
     :maxdepth: 2
@@ -28,7 +28,7 @@ PHP 5
 PHP 7
 -----
 
-This part concerns only the PHP 7 branch. It is under development.
+Эта часть относится только к ветке PHP 7. Она находится в стадии разработки.
 
 .. toctree::
     :maxdepth: 3
@@ -57,10 +57,10 @@ This part concerns only the PHP 7 branch. It is under development.
     php7/zend_engine.rst
     php7/final.rst
 
-Testing PHP Source
-------------------
+Тестирование исходников PHP
+---------------------------
 
-Writing tests applies to both PHP 5 & PHP 7.
+Написание тестов относится как к PHP 5, так и к PHP 7.
 
 .. toctree::
     :maxdepth: 3
@@ -71,11 +71,11 @@ Writing tests applies to both PHP 5 & PHP 7.
     tests/phpt_file_structure.rst
     tests/examining_failed_test_output.rst
 
-Index and search
-================
+Указатель и поиск
+=================
 
 * :ref:`genindex`
 * :ref:`search`
 
-.. ready: no
+.. ready: yes
 .. revision: 0176497b751a7d0d3919ea867c59c9219fbb1db6
