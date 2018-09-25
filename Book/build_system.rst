@@ -1,11 +1,9 @@
-Using the PHP build system
-==========================
+Использование системы сборки PHP
+================================
 
-In this chapter we'll explain how to use the PHP build system to compile both itself and additional extensions. This
-chapter will not yet be concerned with writing your own autoconf build instructions and only explain how to use the
-tooling.
+В этой главе мы объясним, как использовать систему сборки PHP для компиляции как собственных, так и дополнительных расширений. Данная глава пока ещё не будет затрагивать написание собственных инструкций по сборке autoconf, а лищь разъяснит, как использовать этот инструментарий.
 
-Contents:
+Содержание:
 
 .. toctree::
     :maxdepth: 2
@@ -13,5 +11,5 @@ Contents:
     build_system/building_php.rst
     build_system/building_extensions.rst
 
-.. ready: no
+.. ready: yes
 .. revision: 4d9b29f9f41e760ecfe92195d8ef762998079cc1
